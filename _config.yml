@@ -25,10 +25,10 @@ author:
   avatar           : "webpageProfile1.png"
   name             : "Wayne W. Li"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "PhD student in Sustainability"
+  bio              : "PhD student in Sustainability at Schulich School of Business"
   location         : "Toronto, Canada"
-  employer         : "Schulich School of Business, York University"
-  uri              : # URL
+  employer         : "York University"
+  uri              : "liwayne@schulich.yorku.ca" # URL
   email            : "liwayne@schulich.yorku.ca" 
 
   # Academic websites
