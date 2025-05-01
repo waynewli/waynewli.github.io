@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "webpageProfile1.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Wayne W. Li"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "PhD student in Sustainability"
+  location         : "Toronto, Canada"
+  employer         : "Schulich School of Business, York University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "liwayne@schulich.yorku.ca" 
 
   # Academic websites
   academia         : # URL
