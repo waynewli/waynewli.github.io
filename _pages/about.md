@@ -1,26 +1,33 @@
 ---
 permalink: /
-title: "Hey, nice to know you."
+title: "Hey, nice to meet you!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a 1st-year PhD student at Schulich School of Business. I have broad research interests in driving business for good, in particular in the context of emerging market. Some keywords would be: sustainability strategy & implementation, responsible business, ESG disclosure, state-owned enterprise(SOE).
+**About Me**
 
-Before embarking on the academic journey, I worked as a corporate strategist in Hong Kong and China. Some of my career highlights in the 15+ years of driving sustainable growth and performance turnarounds include:
+I am a first-year PhD student at Schulich, with broad interests in driving business for good — particularly in the context of emerging markets.
 
-* Led corporate-level strategy execution for a conglormerate, resulting a jump in Top 500 China Company ranking in 4 years (from 352nd to 183rd); led business-unit level strategy formulation and implementation for a commercial bank, realizing a three-fold growth in its total assets in 5 years (from US$ 6bn to 20bn) and a strengthened core competitiveness
- 
-* Served as the VP/Director of Strategy for two listed companies; drove strategic direction and impact commitments, translating into significant bottom-line growth in 2021: Weiye Decoration (300621.SZ) 17% and Huafa Property Services (00982.HK) 53%
+**Keywords**: sustainability strategy & implementation, responsible business, ESG disclosure, state-owned enterprises (SOEs)
 
-* Designed and led the launch of a successful loyalty program, consolidating 14 rewards schemes of different consumer businesses, to provide standardized service under the same banner; co-branding credit cards with 7 banks and registered members accrued to 140 mn in 2022
-  
-* Led marketing researches on performance evaluation and consumer behaviors for various B2C businesses; supported building up analytics capabilities and enhancing Customer Relationship Management, resulting in a continued improvement in Net Promoter Score/brand equity for 14 different business units.
+Before embarking on my academic journey, I worked as a corporate strategist in Hong Kong and mainland China for over 15 years. Some of my career highlights include:
 
-* Hands-on project experience in: commercial banking, retail and e-commerce, CPG (beverages, beer), utility (gas, power), real estate (residential, commercial and property management), cement and decoration etc.
+* Led corporate-level strategy execution for a conglomerate, resulting in a significant rise in the Top 500 China Company ranking over four years (from 352nd to 183rd); also led business-unit level strategy formulation and implementation for a commercial bank, contributing to a threefold increase in total assets (from US$6 billion to US$20 billion) and a strengthened core competitiveness.
 
+* Served as VP/Director of Strategy for two publicly listed companies, where I drove strategic direction and impact commitments that translated into strong bottom-line growth in 2021: 17% for Weiye Decoration (300621.SZ) and 53% for Huafa Property Services (00982.HK).
+
+* Designed and launched a successful loyalty program that unified 14 reward schemes across different consumer businesses under a single brand; co-branded credit cards with seven banks, growing registered membership to 140 million by 2022.
+
+* Led marketing research on performance evaluation and consumer behavior for various B2C businesses; supported the development of analytics capabilities and CRM enhancements, contributing to sustained improvements in Net Promoter Score and brand equity across 14 business units.
+
+* Hands-on project experience in diverse sectors: commercial banking, retail and e-commerce, CPG (beverages, beer), utilities (gas, power), real estate (residential, commercial, and property management), cement, and home decoration.
+
+I am eager to leverage my professional experience to explore how businesses can become more responsible and impactful.
+
+Feel free to connect with me via [email](mailto:liwayne@schulich.yorku.ca) or on [LinkedIn](https://www.linkedin.com/in/liwayne-schulich/).
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
