@@ -9,7 +9,7 @@ redirect_from:
 
 
 ---
-#About Me#
+#About Me
 
 I am a first-year PhD student at Schulich, with broad interests in driving business for good — particularly in the context of emerging markets.
 
