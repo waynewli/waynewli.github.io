@@ -18,13 +18,13 @@ Education
 
 Professional Experience
 ======
-* 2018-2022: Huafa Group, Zhuhai, China
+* 2018-2022: Huafa Group(https://en.cnhuafag.com/), Zhuhai, China
   * 2018-2022 Director, Operation Management
   * 2022: Peking University Founder Group Co.,Ltd. - Board Member
   * 2020-2022: Huafa Property Services Group (0982.HK) - Vice President, Strategy (part-time)
   * 2020-2021: Shenzhen Weiye Decoration Group (300621.SZ) - Director, Strategic Management (part-time)
 
-* 2006-2018: China Resources (Holdings) Co., Ltd, Hong Kong
+* 2006-2018: China Resources (Holdings) Co., Ltd(https://en.crc.com.cn/), Hong Kong
   * 2016-2018: CR Networks - Assistant Director, Finance & Operation Management
   * 2012-2016: CR Bank - Deputy General Manager, Strategy Management Center
   * 2009-2012: Headquarter - Senior Manager, Strategy Department
