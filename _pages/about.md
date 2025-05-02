@@ -9,11 +9,11 @@ redirect_from:
 
 
 ---
-#About Me
+**About Me**
 
 I am a first-year PhD student at Schulich, with broad interests in driving business for good — particularly in the context of emerging markets.
 
-**Keywords**: *sustainability strategy & implementation, responsible business, ESG disclosure, state-owned enterprises (SOEs)*
+***Keywords***: *sustainability strategy & implementation, responsible business, ESG disclosure, state-owned enterprises (SOEs)*
 
 Before embarking on my academic journey, I worked as a corporate strategist in Hong Kong and China for over 15 years. Some of my career highlights include:
 
@@ -29,4 +29,4 @@ Before embarking on my academic journey, I worked as a corporate strategist in H
 
 I am eager to leverage my professional experience to explore how businesses can become more responsible and impactful.
 
-Feel free to connect with me via [email](mailto:liwayne@schulich.yorku.ca) or on [LinkedIn](https://www.linkedin.com/in/liwayne-schulich/).
+>Feel free to connect with me via [email](mailto:liwayne@schulich.yorku.ca) or on [LinkedIn](https://www.linkedin.com/in/liwayne-schulich/).
