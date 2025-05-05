@@ -66,6 +66,7 @@ Certificates & Honors
 * [GRI Certified Sustainability Professional](https://certificates.globalreporting.org/group/435764)
 * [Bloomberg ESG Certificate](https://portal.bloombergforeducation.com/courses?course_category_id=7)
 * [Environmental Due Diligence for Credit](https://corporatefinanceinstitute.com/course/environmental-due-diligence/) (certified by CFI)
+* Apr 2024: Audience Choice Award, [Turner MIINT Impact Investing Competition](https://schulich.yorku.ca/news/schulich-wins-audience-choice-award-at-the-turner-miint-impact-investing-competition/), Wharton School, University of Pennsylvania
 * Jun 2023: 2nd place, [Sustainable Future Challenge 2023](https://counselling.students.yorku.ca/archive/2023/5/30), York University
 * May 2023: Semi-finalist, [Developers’ Den Case Competition](https://schulich.yorku.ca/developers-den/) 2023
 
