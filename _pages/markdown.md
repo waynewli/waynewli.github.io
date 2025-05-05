@@ -6,8 +6,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-
-Before embarking on my academic journey, I worked as a corporate strategist in Hong Kong and China for over 15 years. Some of my career highlights include:
+--
+Before embarking on the academic journey, I worked as a corporate strategist in Hong Kong and China for over 15 years. Some of my career highlights include:
 
 * **Led corporate-level strategy execution** for a conglomerate, resulting in a significant rise in the Top 500 China Company ranking over four years (from 352nd to 183rd); also led business-unit level strategy formulation and implementation for a commercial bank, contributing to a threefold increase in total assets (from US$6 billion to US$20 billion) and a strengthened core competitiveness.
 
@@ -19,10 +19,5 @@ Before embarking on my academic journey, I worked as a corporate strategist in H
 
 * **Hands-on project experience** in diverse sectors: commercial banking, retail and e-commerce, CPG (beverages, beer), utilities (gas, power), real estate (residential, commercial, and property management), cement, and home decoration.
 
-I am eager to leverage my professional experience to explore how businesses can become more responsible and impactful.
-
-***
-**Footnotes**
-
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
+These experiences help me to identify research gaps and make theories more relevant to the real world. I am eager to leverage them to explore how businesses can become more responsible and impactful.
 
