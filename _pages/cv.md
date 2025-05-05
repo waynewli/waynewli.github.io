@@ -55,6 +55,20 @@ Professional Experience
   * 2009-2012: Headquarter - Senior Manager, Strategy Department
   * 2006-2008: Headquarter - Senior Officer, Research Department
   
+Services
+======
+* 2023-24: Co-president, Net Impact Schulich ([the 2024 Chapter of the Year Winner](https://www.netimpact.org/blog/net-impact-announces-the-2024-chapter-of-the-year-winners) - International Student)
+* 2023: Volunteer, [Taiwan LGBT+ Pride](https://www.taiwanpride.lgbt/)
+* 2022-24: Associate Director in Corporate Relations, [Net Impact Schulich](https://www.linkedin.com/company/net-impact-schulich/)
+
+Certificates & Honors
+=====
+* [GRI Certified Sustainability Professional](https://certificates.globalreporting.org/group/435764)
+* [Bloomberg ESG Certificate](https://portal.bloombergforeducation.com/courses?course_category_id=7)
+* [Environmental Due Diligence for Credit](https://corporatefinanceinstitute.com/course/environmental-due-diligence/)(certified by CFI)
+* Jun 2023: 2nd place, [Sustainable Future Challenge 2023](https://counselling.students.yorku.ca/archive/2023/5/30), York University
+* May 2023: Semi-finalist, [Developers’ Den Case Competition](https://schulich.yorku.ca/developers-den/) 2023
+
 Tools
 ======
 * R, SPSS, NVivo
