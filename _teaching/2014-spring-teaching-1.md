@@ -1,5 +1,5 @@
 ---
-title: "[The Impossible Revolution: Making Sense of the Syrian Tragedy](https://www.goodreads.com/book/show/9820237-memoirs-of-a-geisha)"
+title: "[The Impossible Revolution: Making Sense of the Syrian Tragedy](https://www.goodreads.com/book/show/35903057-the-impossible-revolution)"
 collection: teaching
 type: "Non fiction"
 permalink: /teaching/2014-spring-teaching-1
