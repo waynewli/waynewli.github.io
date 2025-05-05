@@ -41,7 +41,7 @@ Teaching Assistance
 ======
 * Winter 2025: SUST 6450 Sustainability Reporting & Disclosure (MBA course), by [Prof.Charles Cho](https://schulich.yorku.ca/faculty/charles-cho/)
 
-Professional Experience
+Industry Experience
 ======
 * 2018-2022: [Huafa Group](https://en.cnhuafag.com/), Zhuhai, China
   * 2018-2022: Director, Operation Management
@@ -55,11 +55,17 @@ Professional Experience
   * 2009-2012: Headquarter - Senior Manager, Strategy Department
   * 2006-2008: Headquarter - Senior Officer, Research Department
   
-Services
+Academic Service
+=====
+* 2025: Reviewer, the Academy of Management’s (AOM) 85th Annual Meeting
+
+Other Services
 ======
-* 2023-24: Co-president, Net Impact Schulich ([the 2024 Chapter of the Year Winner](https://www.netimpact.org/blog/net-impact-announces-the-2024-chapter-of-the-year-winners) - International Student)
-* 2022-23: Associate Director in Corporate Relations, [Net Impact Schulich](https://www.linkedin.com/company/net-impact-schulich/)
-* 2023: Volunteer, [Taiwan LGBT+ Pride](https://www.taiwanpride.lgbt/)
+* Jun 2025, Volunteer, [The 6th Canadian Sustainable Finance Network Conference](https://csfn2025.schulich.yorku.ca/), Toronto, Canada
+* Apr 2025: Volunteer, the 2025 [Accounting for Sustainability (A4S) International Case Competition](https://www.linkedin.com/posts/schulichschool_a4sicc2025-sustainabilityinbusiness-accountingforimpact-activity-7323780541474897920-Iot9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1SPRoBVpw0rORy6FBx1ROJky7ezngvHmg), Toronto, Canada
+* 2023-24: Co-president, Net Impact Schulich ([the 2024 Chapter of the Year Winner](https://www.netimpact.org/blog/net-impact-announces-the-2024-chapter-of-the-year-winners) - International Student), Toronto, Canada
+* 2022-23: Associate Director in Corporate Relations, [Net Impact Schulich](https://www.linkedin.com/company/net-impact-schulich/), Toronto, Canada
+* 2023: Volunteer, [Taiwan LGBT+ Pride](https://www.taiwanpride.lgbt/), Taipei, Taiwan
 
 Certificates & Honors
 =====
