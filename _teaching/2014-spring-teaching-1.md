@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "The Impossible Revolution: Making Sense of the Syrian Tragedy"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2025-04-27
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Syria's dictator Bashar al-Assad and his junta regime have slaughtered hundreds of thousands of Syrians in the name of fighting terrorism. Former political prisoner, and current refugee, Yassin al-Haj Saleh exposes the lies that enable Assad to continue on his reign of terror as well as the complicity of both Russia and the US in atrocities endured by Syrians.
 
 Heading 1
 ======
