@@ -34,12 +34,12 @@ Relevant Courses
 
 Research Assistance (to [Prof.Charles Cho](https://scholar.google.ca/citations?user=GQVLXQUAAAAJ&hl=en&oi=ao))
 ======
-Mar 2025: How investors evaluate TMT diversity - literature review and theorization
-Nov 2024: ESG ratings & investors' reaction - literature review 
+* Mar 2025: How investors evaluate TMT diversity - literature review and theorization
+* Nov 2024: ESG ratings & investors' reaction - literature review 
 
 Teaching Assistance
 ======
-Winter 2025: SUST 6450 Sustainability Reporting & Disclosure (MBA course), by [Prof.Charles Cho](https://schulich.yorku.ca/faculty/charles-cho/)
+* Winter 2025: SUST 6450 Sustainability Reporting & Disclosure (MBA course), by [Prof.Charles Cho](https://schulich.yorku.ca/faculty/charles-cho/)
 
 Professional Experience
 ======
