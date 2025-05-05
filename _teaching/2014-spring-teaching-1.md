@@ -1,9 +1,9 @@
 ---
 title: "The Impossible Revolution: Making Sense of the Syrian Tragedy"
 collection: teaching
-type: "Undergraduate course"
+type: "Non fiction"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "English"
 date: 2025-04-27
 location: "City, Country"
 ---
