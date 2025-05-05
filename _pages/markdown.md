@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
---
+---
 Before embarking on the academic journey, I worked as a corporate strategist in Hong Kong and China for over 15 years. Some of my career highlights include:
 
 * **Led corporate-level strategy execution** for a conglomerate, resulting in a significant rise in the Top 500 China Company ranking over four years (from 352nd to 183rd); also led business-unit level strategy formulation and implementation for a commercial bank, contributing to a threefold increase in total assets (from US$6 billion to US$20 billion) and a strengthened core competitiveness.
