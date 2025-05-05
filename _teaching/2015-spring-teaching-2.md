@@ -1,9 +1,9 @@
 ---
 title: "Memoirs of A Geisha"
 collection: teaching
-type: "Workshop"
+type: "Fiction"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Fiction, English"
+venue: "English"
 date: 2025-05-02
 location: "City, Country"
 ---
