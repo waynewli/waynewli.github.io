@@ -1,5 +1,5 @@
 ---
-title: "Memoirs of A Geisha"
+title: "[Memoirs of A Geisha](https://www.goodreads.com/book/show/9820237-memoirs-of-a-geisha)"
 collection: teaching
 type: "Fiction"
 permalink: /teaching/2015-spring-teaching-1
@@ -9,12 +9,3 @@ location: "City, Country"
 ---
 
 Speaking to us with the wisdom of age and in a voice at once haunting and immediate, Nitta Sayuri tells the story of her life as a geisha. Sayuri's story begins in a poor fishing village in 1929, when, as a nine-year-old with unusual blue-gray eyes, she is taken from her home and sold into slavery to a renowned geisha house. It concludes with World War II when the geisha houses are forced to close and Sayuri reinvents herself and finds a rare kind of freedom on her own terms.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
