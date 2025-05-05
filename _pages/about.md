@@ -13,7 +13,7 @@ redirect_from:
 
 I am a first-year PhD student in [sustainability](https://schulich.yorku.ca/specializations/sustainability/) at Schulich.
 
-Before embarking on the academic journey, I worked as a corporate strategist in Hong Kong and China. My research interests lie at the intersection of strategic management and sustainability, specifically focusing on the catalysts that enable firms to formulate and implement sustainability strategies, and the impediments that prevent them from doing so, not least in the context of emerging markets.
+Before embarking on the academic journey, I worked as a corporate strategist. My research interests lie at the intersection of strategic management and sustainability, specifically focusing on the catalysts that enable firms to formulate and implement sustainability strategies, and the impediments that prevent them from doing so, not least in the context of emerging markets.
 
 >**Keywords**: sustainability strategy & implementation, responsible business, ESG disclosure, state-owned enterprises (SOEs)
 
