@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Memoirs of A Geisha"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "Fiction, English"
+date: 2025-05-02
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Speaking to us with the wisdom of age and in a voice at once haunting and immediate, Nitta Sayuri tells the story of her life as a geisha. Sayuri's story begins in a poor fishing village in 1929, when, as a nine-year-old with unusual blue-gray eyes, she is taken from her home and sold into slavery to a renowned geisha house. It concludes with World War II when the geisha houses are forced to close and Sayuri reinvents herself and finds a rare kind of freedom on her own terms.
 
 Heading 1
 ======
