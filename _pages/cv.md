@@ -58,8 +58,8 @@ Professional Experience
 Services
 ======
 * 2023-24: Co-president, Net Impact Schulich ([the 2024 Chapter of the Year Winner](https://www.netimpact.org/blog/net-impact-announces-the-2024-chapter-of-the-year-winners) - International Student)
+* 2022-23: Associate Director in Corporate Relations, [Net Impact Schulich](https://www.linkedin.com/company/net-impact-schulich/)
 * 2023: Volunteer, [Taiwan LGBT+ Pride](https://www.taiwanpride.lgbt/)
-* 2022-24: Associate Director in Corporate Relations, [Net Impact Schulich](https://www.linkedin.com/company/net-impact-schulich/)
 
 Certificates & Honors
 =====
