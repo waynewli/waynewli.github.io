@@ -14,10 +14,10 @@ main:
  # - title: "Talks"
  #   url: /talks/    
 
- # - title: "Teaching"
- #   url: /teaching/    
+ - title: "Reading"
+   url: /teaching/    
     
- #  - title: "Reading"
+ #  - title: "Portfolio"
  #   url: /portfolio/
         
  # - title: "Blog Posts"
