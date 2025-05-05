@@ -17,6 +17,6 @@ Before embarking on the academic journey, I worked as a corporate strategist in 
 
 ***Keywords***: *sustainability strategy & implementation, responsible business, ESG disclosure, state-owned enterprises (SOEs)*
 
-On a personal level, I have a broad interest in history, linguistics, and political economy. I love reading, jogging, and travelling.
+On a personal level, I have a broad interest in history, linguistics, and political economy. I love [reading](https://www.goodreads.com/user/show/87763274-wayne), jogging, and travelling.
 
 >Feel free to connect with me via [email](mailto:liwayne@schulich.yorku.ca) or on [LinkedIn](https://www.linkedin.com/in/liwayne-schulich/).
