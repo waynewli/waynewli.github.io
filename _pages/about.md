@@ -11,22 +11,12 @@ redirect_from:
 ---
 **About Me**
 
-I am a first-year PhD student at Schulich, with broad interests in driving business for good — particularly in the context of emerging markets.
+I am a first-year PhD student in sustainability at Schulich.
+
+Before embarking on the academic journey, I worked as a corporate strategist in Hong Kong and China. My research interests lie at the intersection of strategic management and sustainability, specifically focusing on the catalysts that enable firms to formulate and implement sustainability strategies, and the impediments that prevent them from doing so, not least in the context of emerging markets.
 
 ***Keywords***: *sustainability strategy & implementation, responsible business, ESG disclosure, state-owned enterprises (SOEs)*
 
-Before embarking on my academic journey, I worked as a corporate strategist in Hong Kong and China for over 15 years. Some of my career highlights include:
-
-* **Led corporate-level strategy execution** for a conglomerate, resulting in a significant rise in the Top 500 China Company ranking over four years (from 352nd to 183rd); also led business-unit level strategy formulation and implementation for a commercial bank, contributing to a threefold increase in total assets (from US$6 billion to US$20 billion) and a strengthened core competitiveness.
-
-* **Served as VP/Director of Strategy** for two publicly listed companies, where I drove strategic direction and impact commitments that translated into strong bottom-line growth in 2021: 17% for Weiye Decoration (300621.SZ) and 53% for Huafa Property Services (00982.HK).
-
-* **Designed and launched a successful loyalty program** that unified 14 reward schemes across different consumer businesses under a single brand; co-branded credit cards with seven banks, growing registered membership to 140 million by 2022.
-
-* **Led marketing research** on performance evaluation and consumer behavior for various B2C businesses; supported the development of analytics capabilities and CRM enhancements, contributing to sustained improvements in Net Promoter Score and brand equity across 14 business units.
-
-* **Hands-on project experience** in diverse sectors: commercial banking, retail and e-commerce, CPG (beverages, beer), utilities (gas, power), real estate (residential, commercial, and property management), cement, and home decoration.
-
-I am eager to leverage my professional experience to explore how businesses can become more responsible and impactful.
+On a personal level, I have a broad interests in history, linguistics, and political economy. I love reading, jogging, and travelling.
 
 >Feel free to connect with me via [email](mailto:liwayne@schulich.yorku.ca) or on [LinkedIn](https://www.linkedin.com/in/liwayne-schulich/).
