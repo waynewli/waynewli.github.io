@@ -6,21 +6,46 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+--
 {% include base_path %}
 
 Education
 ======
 * PhD in Sustainability, Schulich School of Business, York University, 2029 (expected)
 * MBA, Schulich School of Business, York University, 2024
+  * MBA exchange, College of Management, National University of Taiwan
 * MPhil in Marketing, School of Business, The University of Hong Kong, 2006
 * BBA in Marketing, School of Business, The University of Hong Kong, 2004
+
+Relevant Courses
+======
+* PhD:
+  * SUST 7010 Advanced Topics in Responsible Business (A), by [Prof.Robert Phillips](https://schulich.yorku.ca/faculty/robert-phillips/)
+  * SUST 7020 Advanced Topics in Organizational Theory,
+  * SUST 7050 Business Society & Global Governance, 
+  * ORGS 7050 Meso Organizational Behavior(A), by [Prof.Ruodan Shao](https://schulich.yorku.ca/faculty/ruodan-shao/)
+* MBA:
+  * SUST 6950 Ethics & Finance(A), by [Prof.Mikael Meir](https://mikaelmeir.com/about-mikael-meir/)
+  * SUST 5200 Business & Sustainability(A-), by [Prof.Charles Cho](https://schulich.yorku.ca/faculty/charles-cho/)
+  * PROP 6550 Sustainable Cities - Urbanization Infrastructure & Strategic Choices (A-), by [Prof.Avis Devine](https://schulich.yorku.ca/faculty/avis-devine/)
+  * IB 7089 Seminar on Chinese Economy (A+), by [Prof.Jyh-Dean Hwang](https://management.ntu.edu.tw/en/faculty/teacher/sn/192)
+  * PS 5672 Seminar on Political Economy of East Asia (A), by [Prof.Hsin-Wei Tang](https://politics.ntu.edu.tw/english/?p=12193)
+  * NtlDev5313 Seminar on China’s Political and Economic Reform after Deng (A), by [Prof.Chelsea C. Chou](https://www.nd.ntu.edu.tw/nd_en/News_Content_teacher.aspx?n=95&s=4194)
+
+Research Assistance (to [Prof.Charles Cho](https://scholar.google.ca/citations?user=GQVLXQUAAAAJ&hl=en&oi=ao))
+======
+Mar 2025: How investors evaluate TMT diversity - literature review and theorization
+Nov 2024: ESG ratings & investors' reaction - literature review 
+
+Teaching Assistance
+======
+Winter 2025: SUST 6450 Sustainability Reporting & Disclosure (MBA course), by [Prof.Charles Cho](https://schulich.yorku.ca/faculty/charles-cho/)
 
 Professional Experience
 ======
 * 2018-2022: [Huafa Group](https://en.cnhuafag.com/), Zhuhai, China
-  * 2018-2022 Director, Operation Management
-  * 2022: Peking University Founder Group Co.,Ltd. - Board Member
+  * 2018-2022: Director, Operation Management
+  * 2022: [Peking University Founder Group Co.,Ltd.](https://group.pingan.com/resource/pingan/IR-Docs/2021/pingan-transaction-introduction-founder-group-restructuring-project-20210430.pdf) - Board Member and Strategy Lead
   * 2020-2022: Huafa Property Services Group (0982.HK) - Vice President, Strategy (part-time)
   * 2020-2021: [Shenzhen Weiye Decoration Group](https://www.szweiye.com/)(300621.SZ) - Director, Strategic Management (part-time)
 
@@ -29,6 +54,10 @@ Professional Experience
   * 2012-2016: [CR Bank](https://www.crbank.com.cn/) - Deputy General Manager, Strategy Management Center
   * 2009-2012: Headquarter - Senior Manager, Strategy Department
   * 2006-2008: Headquarter - Senior Officer, Research Department
+  
+Tools
+======
+* R, SPSS, NVivo
   
 Languages
 ======
