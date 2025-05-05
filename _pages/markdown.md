@@ -13,6 +13,8 @@ Before embarking on the academic journey, I worked as a corporate strategist in 
 
 * **Served as VP/Director of Strategy** for two publicly listed companies, where I drove strategic direction and impact commitments that translated into strong bottom-line growth in 2021: 17% for Weiye Decoration (300621.SZ) and 53% for Huafa Property Services (00982.HK).
 
+* **Co-led the post-acquisition integration** of Founder Group, one of China's largest and most complex restructurings, as a strategy leader. Ensured seamless operational continuity and strategic alignment with acquirers while navigating multifaceted stakeholder interests.
+
 * **Designed and launched a successful loyalty program** that unified 14 reward schemes across different consumer businesses under a single brand; co-branded credit cards with seven banks, growing registered membership to 140 million by 2022.
 
 * **Led marketing research** on performance evaluation and consumer behavior for various B2C businesses; supported the development of analytics capabilities and CRM enhancements, contributing to sustained improvements in Net Promoter Score and brand equity across 14 business units.
