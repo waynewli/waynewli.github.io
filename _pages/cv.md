@@ -22,7 +22,7 @@ Relevant Courses
 * PhD:
   * SUST 7010 Advanced Topics in Responsible Business (A), by [Prof.Robert Phillips](https://schulich.yorku.ca/faculty/robert-phillips/)
   * SUST 7020 Advanced Topics in Organizational Theory,
-  * SUST 7050 Business Society & Global Governance, 
+  * SUST 7050 Business Society & Global Governance,
   * ORGS 7050 Meso Organizational Behavior(A), by [Prof.Ruodan Shao](https://schulich.yorku.ca/faculty/ruodan-shao/)
 * MBA:
   * SUST 6950 Ethics & Finance(A), by [Prof.Mikael Meir](https://mikaelmeir.com/about-mikael-meir/)
@@ -50,11 +50,15 @@ Conferences
 ======
 * Jun 18-19, 2025: Presenter, [The 9th World Business Ethics Forum](https://fob.cityu.edu.mo/en/page-254), Macau
 
-Professional Development
+Professional Development & Certificates
 =====
 * May 17-19, 2025: Workshop Attended, [Administrative Sciences Association of Canada (ASAC)](https://asac.ca/conference/) 2025, Waterloo, Canada
+* [GRI Certified Sustainability Professional](https://certificates.globalreporting.org/group/435764)
+* [Bloomberg ESG Certificate](https://portal.bloombergforeducation.com/courses?course_category_id=7)
+* [Environmental Due Diligence for Credit](https://corporatefinanceinstitute.com/course/environmental-due-diligence/) (certified by CFI)
 
-Research Projects (under the guidance of [Prof.Charles Cho](https://scholar.google.ca/citations?user=GQVLXQUAAAAJ&hl=en&oi=ao))
+Research Projects 
+(under the guidance of [Prof.Charles Cho](https://scholar.google.ca/citations?user=GQVLXQUAAAAJ&hl=en&oi=ao))
 ======
 * Mar 2025: How investors evaluate TMT diversity - literature review and theorization
 * Nov 2024: ESG ratings & investors' reaction - literature review 
@@ -69,17 +73,14 @@ Academic Service
 
 Other Services
 ======
-* Jun 2025, Volunteer, [The 6th Canadian Sustainable Finance Network Conference](https://csfn2025.schulich.yorku.ca/), Toronto, Canada
-* Apr 2025: Volunteer, the 2025 [Accounting for Sustainability (A4S) International Case Competition](https://www.linkedin.com/posts/schulichschool_a4sicc2025-sustainabilityinbusiness-accountingforimpact-activity-7323780541474897920-Iot9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1SPRoBVpw0rORy6FBx1ROJky7ezngvHmg), Toronto, Canada
+* Jun 2025, Student volunteer, [The 6th Canadian Sustainable Finance Network Conference](https://csfn2025.schulich.yorku.ca/), Toronto, Canada
+* Apr 2025: Student volunteer, the 2025 [Accounting for Sustainability (A4S) International Case Competition](https://www.linkedin.com/posts/schulichschool_a4sicc2025-sustainabilityinbusiness-accountingforimpact-activity-7323780541474897920-Iot9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1SPRoBVpw0rORy6FBx1ROJky7ezngvHmg), Toronto, Canada
 * 2023-24: Co-president, Net Impact Schulich ([the 2024 Chapter of the Year Winner](https://www.netimpact.org/blog/net-impact-announces-the-2024-chapter-of-the-year-winners) - International Student), Toronto, Canada
 * 2022-23: Associate Director in Corporate Relations, [Net Impact Schulich](https://www.linkedin.com/company/net-impact-schulich/), Toronto, Canada
 * 2023: Volunteer, [Taiwan LGBT+ Pride](https://www.taiwanpride.lgbt/), Taipei, Taiwan
 
-Certificates & Honors
+Awards & Honors
 =====
-* [GRI Certified Sustainability Professional](https://certificates.globalreporting.org/group/435764)
-* [Bloomberg ESG Certificate](https://portal.bloombergforeducation.com/courses?course_category_id=7)
-* [Environmental Due Diligence for Credit](https://corporatefinanceinstitute.com/course/environmental-due-diligence/) (certified by CFI)
 * Apr 2024: Audience Choice Award, [Turner MIINT Impact Investing Competition](https://schulich.yorku.ca/news/schulich-wins-audience-choice-award-at-the-turner-miint-impact-investing-competition/), Wharton School, University of Pennsylvania, USA
 * Jun 2023: 2nd place, [Sustainable Future Challenge 2023](https://counselling.students.yorku.ca/archive/2023/5/30), York University, Canada
 * May 2023: Semi-finalist, [Developers’ Den Case Competition](https://schulich.yorku.ca/developers-den/) 2023, Schulich School of Business, York University, Canada
