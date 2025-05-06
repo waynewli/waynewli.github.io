@@ -13,10 +13,12 @@ redirect_from:
 
 I am a first-year PhD student in [sustainability](https://schulich.yorku.ca/specializations/sustainability/) at Schulich.
 
-Before embarking on the academic journey, I worked as a corporate strategist. My research interests lie at the intersection of strategic management and sustainability, specifically focusing on the catalysts that enable firms to formulate and implement sustainability strategies, and the impediments that prevent them from doing so, not least in the context of emerging markets.
+My research interests lie at the intersection of strategic management and sustainability, specifically focusing on the catalysts that enable firms to formulate and implement sustainability strategies, and the impediments that prevent them from doing so, not least in the context of emerging markets.
 
 >**Keywords**: sustainability strategy & implementation, responsible business, ESG disclosure, state-owned enterprises (SOEs)
 
-On a personal level, I have a broad interest in history, linguistics, and political economy. I love [reading](https://www.goodreads.com/), jogging, and travelling.
+Before embarking on this academic journey, I worked as a corporate strategist. I'm eager to leverage my industry experience to make theoretical impacts.
+
+On a personal level, I have a broad interest in culture, history, linguistics, and political economy. On a typical weekend/vacation, you can find me [reading](https://www.goodreads.com/), jogging, hiking or visiting museums.
 
 Feel free to connect with me via [email](mailto:liwayne@schulich.yorku.ca), on [LinkedIn](https://www.linkedin.com/in/liwayne-schulich/) or [Goodreads](https://www.goodreads.com/user/show/87763274-wayne).
