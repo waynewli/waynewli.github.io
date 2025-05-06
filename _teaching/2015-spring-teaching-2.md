@@ -9,4 +9,12 @@ location: "City, Country"
 ---
 > Date Finished: May 2, 2025
 
-Speaking to us with the wisdom of age and in a voice at once haunting and immediate, Nitta Sayuri tells the story of her life as a geisha. Sayuri's story begins in a poor fishing village in 1929, when, as a nine-year-old with unusual blue-gray eyes, she is taken from her home and sold into slavery to a renowned geisha house. It concludes with World War II when the geisha houses are forced to close and Sayuri reinvents herself and finds a rare kind of freedom on her own terms.
+“What I propose to do in this book is to take you on a guided exploration of the Catholic world, but not in the manner of a docent, for I am not interested in showing you the artifacts of Catholicism as though they were dusty objets d’art in a museum of culture.  I want to function rather as a mystagogue, conducting you ever deeper into the mystery of the incarnation in the hopes that you might be transformed by its power.” – Father Robert Barron
+ 
+What is Catholicism? A 2,000-year-old living tradition? A worldview? A way of life? A relationship? A mystery? In Catholicism Father Robert Barron examines all these questions and more, seeking to capture the body, heart and mind of the Catholic faith.
+
+Starting from the essential foundation of Jesus Christ’s incarnation, life, and teaching, Father Barron moves through the defining elements of Catholicism – from sacraments, worship, and prayer, to Mary, the Apostles, and Saints, to grace, salvation, heaven, and hell – using his distinct and dynamic grasp of art, literature, architecture, personal stories, Scripture, theology, philosophy, and history to present the Church to the world.
+
+Paired with his documentary film series of the same title, Catholicism is an intimate journey, capturing “The Catholic Thing” in all its depth and beauty. Eclectic, unique, and inspiring, Father Barron brings the faith to life for a new generation, in a style that is both faithful to timeless truths, while simultaneously speaking in the language of contemporary life.
+
+Includes over 100 black and white and color photos.
