@@ -57,9 +57,9 @@ Professional Development & Certificates
 * [Bloomberg ESG Certificate](https://portal.bloombergforeducation.com/courses?course_category_id=7)
 * [Environmental Due Diligence for Credit](https://corporatefinanceinstitute.com/course/environmental-due-diligence/) (certified by CFI)
 
-Research Projects 
-(under the guidance of [Prof.Charles Cho](https://scholar.google.ca/citations?user=GQVLXQUAAAAJ&hl=en&oi=ao))
+Research Projects
 ======
+*under the guidance of [Prof.Charles Cho](https://scholar.google.ca/citations?user=GQVLXQUAAAAJ&hl=en&oi=ao)*
 * Mar 2025: How investors evaluate TMT diversity - literature review and theorization
 * Nov 2024: ESG ratings & investors' reaction - literature review 
 
