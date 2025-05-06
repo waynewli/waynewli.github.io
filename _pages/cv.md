@@ -41,6 +41,11 @@ Teaching Assistance
 ======
 * Winter 2025: SUST 6450 Sustainability Reporting & Disclosure (MBA course), by [Prof.Charles Cho](https://schulich.yorku.ca/faculty/charles-cho/)
 
+Conferences
+======
+* Jun 18-19, 2025: Presenter, [The 9th World Business Ethics Forum](https://fob.cityu.edu.mo/en/page-254), Macau
+* May 17-19, 2025: Attendee, [Administrative Sciences Association of Canada (ASAC)](https://asac.ca/conference/) 2025, Waterloo, Canada
+
 Industry Experience
 ======
 * 2018-2022: [Huafa Group](https://en.cnhuafag.com/), Zhuhai, China
@@ -72,9 +77,9 @@ Certificates & Honors
 * [GRI Certified Sustainability Professional](https://certificates.globalreporting.org/group/435764)
 * [Bloomberg ESG Certificate](https://portal.bloombergforeducation.com/courses?course_category_id=7)
 * [Environmental Due Diligence for Credit](https://corporatefinanceinstitute.com/course/environmental-due-diligence/) (certified by CFI)
-* Apr 2024: Audience Choice Award, [Turner MIINT Impact Investing Competition](https://schulich.yorku.ca/news/schulich-wins-audience-choice-award-at-the-turner-miint-impact-investing-competition/), Wharton School, University of Pennsylvania
-* Jun 2023: 2nd place, [Sustainable Future Challenge 2023](https://counselling.students.yorku.ca/archive/2023/5/30), York University
-* May 2023: Semi-finalist, [Developers’ Den Case Competition](https://schulich.yorku.ca/developers-den/) 2023
+* Apr 2024: Audience Choice Award, [Turner MIINT Impact Investing Competition](https://schulich.yorku.ca/news/schulich-wins-audience-choice-award-at-the-turner-miint-impact-investing-competition/), Wharton School, University of Pennsylvania, USA
+* Jun 2023: 2nd place, [Sustainable Future Challenge 2023](https://counselling.students.yorku.ca/archive/2023/5/30), York University, Canada
+* May 2023: Semi-finalist, [Developers’ Den Case Competition](https://schulich.yorku.ca/developers-den/) 2023, Schulich School of Business, York University, Canada
 
 Tools
 ======
