@@ -32,20 +32,6 @@ Relevant Courses
   * PS 5672 Seminar on Political Economy of East Asia (A), by [Prof.Hsin-Wei Tang](https://politics.ntu.edu.tw/english/?p=12193)
   * NtlDev5313 Seminar on China’s Political and Economic Reform after Deng (A), by [Prof.Chelsea C. Chou](https://www.nd.ntu.edu.tw/nd_en/News_Content_teacher.aspx?n=95&s=4194)
 
-Research Assistance (to [Prof.Charles Cho](https://scholar.google.ca/citations?user=GQVLXQUAAAAJ&hl=en&oi=ao))
-======
-* Mar 2025: How investors evaluate TMT diversity - literature review and theorization
-* Nov 2024: ESG ratings & investors' reaction - literature review 
-
-Teaching Assistance
-======
-* Winter 2025: SUST 6450 Sustainability Reporting & Disclosure (MBA course), by [Prof.Charles Cho](https://schulich.yorku.ca/faculty/charles-cho/)
-
-Conferences
-======
-* Jun 18-19, 2025: Presenter, [The 9th World Business Ethics Forum](https://fob.cityu.edu.mo/en/page-254), Macau
-* May 17-19, 2025: Attendee, [Administrative Sciences Association of Canada (ASAC)](https://asac.ca/conference/) 2025, Waterloo, Canada
-
 Industry Experience
 ======
 * 2018-2022: [Huafa Group](https://en.cnhuafag.com/), Zhuhai, China
@@ -59,6 +45,23 @@ Industry Experience
   * 2012-2016: [CR Bank](https://www.crbank.com.cn/) - Deputy General Manager, Strategy Management Center
   * 2009-2012: Headquarter - Senior Manager, Strategy Department
   * 2006-2008: Headquarter - Senior Officer, Research Department
+
+Conferences
+======
+* Jun 18-19, 2025: Presenter, [The 9th World Business Ethics Forum](https://fob.cityu.edu.mo/en/page-254), Macau
+
+Professional Development
+=====
+* May 17-19, 2025: Workshop Attended, [Administrative Sciences Association of Canada (ASAC)](https://asac.ca/conference/) 2025, Waterloo, Canada
+
+Research Projects (under the guidance of [Prof.Charles Cho](https://scholar.google.ca/citations?user=GQVLXQUAAAAJ&hl=en&oi=ao))
+======
+* Mar 2025: How investors evaluate TMT diversity - literature review and theorization
+* Nov 2024: ESG ratings & investors' reaction - literature review 
+
+Teaching Assistance
+======
+* Winter 2025: SUST 6450 Sustainability Reporting & Disclosure (MBA course), by [Prof.Charles Cho](https://schulich.yorku.ca/faculty/charles-cho/)
   
 Academic Service
 =====
