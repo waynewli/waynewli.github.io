@@ -19,6 +19,6 @@ My research interests lie at the intersection of strategic management and sustai
 
 Before embarking on this academic journey, I worked as a corporate strategist. I'm eager to leverage my industry experience to make theoretical impacts.
 
-On a personal level, I have a broad interest in culture, history, linguistics, and political economy. On a typical weekend/vacation, you can find me [reading](https://www.goodreads.com/), jogging, hiking or visiting museums.
+On a personal level, I have a broad interest in culture, history, religions, linguistics, and political economy. On a typical weekend or vacation, you can find me reading, jogging, hiking or visiting museums.
 
 Feel free to connect with me via [email](mailto:liwayne@schulich.yorku.ca), on [LinkedIn](https://www.linkedin.com/in/liwayne-schulich/) or [Goodreads](https://www.goodreads.com/user/show/87763274-wayne).
