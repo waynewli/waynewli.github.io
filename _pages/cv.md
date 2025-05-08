@@ -87,8 +87,10 @@ Awards & Honors
 
 Tools
 ======
-* R, SPSS, NVivo
+* Analysis: R, SPSS, NVivo
+* Visualization: Tableau, JavaScript
+* Web development: HTML, CSS, JavaScript(ES6+), MySQL
   
 Languages
 ======
-* English, Cantonese, Mandarin, French(B1), Japanese (A2/N3)
+* English, Cantonese, Mandarin, French(B1), Japanese (B1/N2)
