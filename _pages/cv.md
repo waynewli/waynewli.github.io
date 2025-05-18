@@ -46,13 +46,13 @@ Industry Experience
   * 2009-2012: Headquarter - Senior Manager, Strategy Department
   * 2006-2008: Headquarter - Senior Officer, Research Department
 
-Conferences
+Refereed Conference Papers
 ======
-* Jun 18-19, 2025: Presenter, [The 9th World Business Ethics Forum](https://fob.cityu.edu.mo/en/page-254), Macau
+* Li, W. (Forthcoming, 2025). The Financial Impact of Implicit and Explicit CSR: A Meta-Analytic Perspective on State-Owned Enterprises in Emerging Markets. In *Proceedings of The 9th World Business Ethics Forum*, Macau.
 
 Professional Development & Certificates
 =====
-* May 17-19, 2025: Workshop Attended, [Administrative Sciences Association of Canada (ASAC)](https://asac.ca/conference/) 2025, Waterloo, Canada
+* Attended "Reviewing for Conferences and Journals" PDW, May 17-19, 2025: PDW Workshop Attended, [Administrative Sciences Association of Canada (ASAC)](https://asac.ca/conference/) 2025, University of Waterloo, Waterloo, ON, Canada, May 17, 2025.
 * [GRI Certified Sustainability Professional](https://certificates.globalreporting.org/group/435764)
 * [Bloomberg ESG Certificate](https://portal.bloombergforeducation.com/courses?course_category_id=7)
 * [Environmental Due Diligence for Credit](https://corporatefinanceinstitute.com/course/environmental-due-diligence/) (certified by CFI)
