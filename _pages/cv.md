@@ -69,7 +69,8 @@ Teaching Assistance
   
 Academic Service
 =====
-* 2025: Reviewer, the Academy of Management’s (AOM) 85th Annual Meeting
+* 2025: Discussant, *Do Employees Have Useful Information about Firms' ESG Practices?* in the session *"ESG Ratings, Information Quality, and Financial Implications"*, The 6th Canadian Sustainable Finance Network (CSFN) Conference, Toronto, Canada
+* 2025: Reviewer, the Academy of Management’s (AOM) 85th Annual Meeting, Copenhagen, Denmark
 
 Other Services
 ======
